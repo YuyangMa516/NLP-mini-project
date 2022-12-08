@@ -28,7 +28,7 @@ Here is my logical framework.
  5.	    Draw one for checking, and add a title
  6.	    Do a pre-processing of the data set
  7.	    Normalize the data to narrow down the range, into a floating point shape, two-dimensional, reduced, receive
- 8.	    Defining Convolutional Neural Networks. ( (1) 2 convolutions, one pooling, three repetitions (2) Flattening (3) Fully connected )
+ 8.	    Defining Convolutional Neural Networks. ( (1) 2 convolutions, one pooling, three repetitions <br>(2) Flattening <br>(3) Fully connected )
  9.	    Configuring the network
  10.	   Training model
  11.	   Watch the data trend， draw a picture
