@@ -33,9 +33,9 @@ Here is my logical framework.
    (2) Flattening
    (3) Fully connected
  9.	    Configuring the network
- 10.	Training model
- 11.	Watch the data trend， draw a picture
- 12.	Network optimization, output charts
+ 10.	   Training model
+ 11.	   Watch the data trend， draw a picture
+ 12.	   Network optimization, output charts
    (1)	Add dropout to reduce overfitting.
    (2)	2 convolutions, one pooling, three repetitions, total 3 layers of operations
    (3)	Flattening
