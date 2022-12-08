@@ -38,7 +38,7 @@ Here is my logical framework.
    
 Conclusion
 
-👉👉👉👉Training data is 83.9% and calibration data is 70.6%👈👈👈👈👈👈
-After adding dropout to reduce overfitting
+👉👉👉👉Training data is 83.9% and calibration data is 70.6%👈👈👈👈👈👈 <br>
+After adding dropout to reduce overfitting <br>
 👉👉👉👉Training data is 87.2% and calibration data is 79.7%👈👈👈👈👈👈
 
